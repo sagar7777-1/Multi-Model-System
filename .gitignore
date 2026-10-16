@@ -1,0 +1,10 @@
+
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated logs and evaluation reports
+logs/
+
+src/router_cli_backup.py

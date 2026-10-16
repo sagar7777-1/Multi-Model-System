@@ -1,0 +1,72 @@
+
+[
+  {
+    "id": "FIN-001",
+    "domain": "finance",
+    "question": "Explain the difference between simple interest and compound interest.",
+    "candidate_answer": "Simple interest is calculated only on the original principal. Compound interest is calculated on the principal plus interest accumulated from earlier periods. The total interest under compound interest can grow faster over time.",
+    "required_facts": [
+      "original principal",
+      "principal plus interest accumulated",
+      "grow faster over time"
+    ]
+  },
+  {
+    "id": "FIN-002",
+    "domain": "finance",
+    "question": "How does inflation affect purchasing power?",
+    "candidate_answer": "Inflation is a sustained increase in the general price level. When prices rise, the same amount of money generally buys fewer goods and services, reducing purchasing power.",
+    "required_facts": [
+      "general price level",
+      "buys fewer goods and services",
+      "purchasing power"
+    ]
+  },
+  {
+    "id": "LEG-001",
+    "domain": "legal",
+    "question": "What should someone consider when reviewing an Indian legal contract?",
+    "candidate_answer": "Review the parties, obligations, payment terms, termination conditions, dispute resolution provisions, and applicable law. The effect of each clause depends on the contract and relevant law. Obtain qualified legal advice for a specific dispute or decision.",
+    "required_facts": [
+      "obligations",
+      "termination conditions",
+      "dispute resolution",
+      "relevant law"
+    ]
+  },
+  {
+    "id": "LEG-002",
+    "domain": "legal",
+    "question": "What is India's Digital Personal Data Protection Act?",
+    "candidate_answer": "India enacted the Digital Personal Data Protection Act, 2023. Its application depends on the relevant provisions, applicable rules, and commencement notifications. Check authoritative government sources for the legal position applicable to a particular situation.",
+    "required_facts": [
+      "Digital Personal Data Protection Act",
+      "2023",
+      "commencement notifications"
+    ]
+  },
+  {
+    "id": "TAX-001",
+    "domain": "tax",
+    "question": "How should an individual compare India's old and new income tax regimes?",
+    "candidate_answer": "Compare both regimes using the rules applicable to the relevant financial year. Consider eligible deductions, exemptions, income sources, and other applicable conditions. Calculate both outcomes using the official Income Tax Department calculator and compare the resulting tax liabilities.",
+    "required_facts": [
+      "financial year",
+      "eligible deductions",
+      "official Income Tax Department calculator",
+      "tax liabilities"
+    ]
+  },
+  {
+    "id": "TAX-002",
+    "domain": "tax",
+    "question": "What information is needed to estimate an individual's income tax?",
+    "candidate_answer": "A tax estimate generally needs the relevant financial year, income sources, salary and other taxable income, eligible deductions, exemptions, and applicable tax-regime details. Verify the applicable rules and use the official Income Tax Department calculator for an estimate.",
+    "required_facts": [
+      "financial year",
+      "income sources",
+      "eligible deductions",
+      "applicable tax-regime details"
+    ]
+  }
+]
